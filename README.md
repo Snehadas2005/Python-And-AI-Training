@@ -1,5 +1,4 @@
-## Project Title: 
-Employee Sentiment Analysis
+## Project Title: Employee Sentiment Analysis
 
 ### Overview: 
 Brief description of the project tasks (Sentiment Analysis, EDA, Monthly Ranking, Flight Risk Detection, and Linear Regression modeling).
